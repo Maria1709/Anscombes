@@ -29,8 +29,8 @@ Anscombes Investigation
 ###  Max.   :10.840   Max.   :9.260   Max.   :12.74   Max.   :12.500
 
 ## 
-"<img style=\"float: left; margin: 0px 15px 0px 0px;\" src=\"https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg\" alt=\"Francis Anscombe\" title=\"Francis Anscombe\" />Francis Anscombe was a statistician born in England in 1918 and educated at Trinity College, Cambridge University. Anscombe published a paper in 1973 using four data sets with similar summary statistics, but very different looking data-plots, illustrating the importance of graphing data for visual comparison, disputing the idea that graphs are rough but numerical calculations are exact.\n",
-    "\n",
+"<img style=\"float: left; margin: 0px 15px 0px 0px;\" src=\"https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg\"
+   
 
 ### References
 ###http://data.princeton.edu/wws509/stata/anscombe.html
