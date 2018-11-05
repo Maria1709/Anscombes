@@ -1,5 +1,5 @@
 # Anscombes
-Anscombes Investigation
+#Anscombes Investigation
 
 ##Anscombe's quartet comprises of four datasets that have nearly identical simple descriptive statistics, but seem to appear to be very different when graphed. Each piece of data has eleven (x & y) points. 
 ##There are 8 variables representing four pairings of an outcome and a predictor.
@@ -34,8 +34,8 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 ###  3rd Qu.: 8.570   3rd Qu.:8.950   3rd Qu.: 7.98   3rd Qu.: 8.190  
 ###  Max.   :10.840   Max.   :9.260   Max.   :12.74   Max.   :12.500
 
-## 
-"<img style=\"float: left; margin: 0px 15px 0px 0px;\" src=\"https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg\"
+
+##"<img style=\"float: left; margin: 0px 15px 0px 0px;\" src=\"https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg\"
    
 
 ### References
