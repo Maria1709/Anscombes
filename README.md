@@ -25,6 +25,8 @@ Visuals in data analysis is very effective and efficient in showing people quick
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
 to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
+##As you can see from the data below how close statistically they are, again brings home how important to both plot and measure mathematically.
+
 ![384c1411-80c3-456e-9485-76806961d107](https://user-images.githubusercontent.com/35726074/48147855-3b312c80-e2b0-11e8-95d0-5c109d7095ce.png)
 
 
