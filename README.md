@@ -22,7 +22,7 @@ The data used in the data set had a mean of x(9) and y(7.5), the same fitted reg
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
 
 ![1](https://user-images.githubusercontent.com/35726074/48149611-733a6e80-e2b4-11e8-8637-e8b94291bd36.PNG)
-
+![2](https://user-images.githubusercontent.com/35726074/48149884-2e630780-e2b5-11e8-91d1-a3e98f0b725e.png)
 ![3](https://user-images.githubusercontent.com/35726074/48149653-95cc8780-e2b4-11e8-9041-e411084f86f9.png)
 ![4](https://user-images.githubusercontent.com/35726074/48149664-9cf39580-e2b4-11e8-8b58-525846f6551e.png)
 
