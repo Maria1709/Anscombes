@@ -18,6 +18,9 @@
 ##But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
 Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
 ##Plots should give a picture of the data and help show what exactly is happeneing, allows large amounts of data to be shown in an easily understood picture, must be coherent and serve a clear purpose.
+
+https://screenshots.firefox.com/TrafIX9wtVG1fHIJ/www.hranalytics101.com
+
 ##A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
 to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
