@@ -49,3 +49,4 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 ###F. J. Anscombe (1973). Graphs in Statistical Analysis. The American Statistician, 27(1):17-21.
 ###http://faculty.nps.edu/rdfricke/docs/Visualizing%20HSCB%20Data.pdf
 ###
+.
