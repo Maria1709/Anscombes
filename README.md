@@ -2,6 +2,7 @@
 #Anscombes Investigation
 ![https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.png](screenshot.png)
 
+![francis_anscombe](https://user-images.githubusercontent.com/35726074/48147151-84807c80-e2ae-11e8-8abe-e8ac5cd3f6c6.jpeg)
 
 ![Frank Anscombe](https://en.wikipedia.org/wiki/Frank_Anscombe#/media/File:Francis_Anscombe.jpeg)
 
