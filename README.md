@@ -20,7 +20,7 @@ Plots should give a picture of the data and help show what exactly is happeneing
 
 ![85c301e3-60cf-44b8-8479-961a17ddc706](https://user-images.githubusercontent.com/35726074/48147690-d1b11e00-e2af-11e8-845c-aa7f97a11363.png)
 
-##A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
+A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
 to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
