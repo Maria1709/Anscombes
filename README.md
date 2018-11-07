@@ -1,6 +1,8 @@
 # Anscombes
 #Anscombes Investigation
 
+![https://en.wikipedia.org/wiki/Frank_Anscombe#/media/File:Francis_Anscombe.jpeg](img/picture.png)
+
 ##Anscombe's quartet comprises of four datasets that have nearly identical simple descriptive statistics, but seem to appear to be very different when graphed. Each piece of data has eleven (x & y) points. 
 ##There are 8 variables representing four pairings of an outcome and a predictor.
 ##They were constructed in 1973 by the statistician Francis Anscombe, to show how important it was to graph data before analysing it. 
