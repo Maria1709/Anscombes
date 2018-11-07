@@ -19,7 +19,7 @@
 Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
 ##Plots should give a picture of the data and help show what exactly is happeneing, allows large amounts of data to be shown in an easily understood picture, must be coherent and serve a clear purpose.
 
-https://screenshots.firefox.com/TrafIX9wtVG1fHIJ/www.hranalytics101.com
+![85c301e3-60cf-44b8-8479-961a17ddc706](https://user-images.githubusercontent.com/35726074/48147690-d1b11e00-e2af-11e8-845c-aa7f97a11363.png)
 
 ##A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
