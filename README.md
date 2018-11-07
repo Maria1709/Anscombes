@@ -21,6 +21,8 @@ The data used in the data set had a mean of x(9) and y(7.5), the same fitted reg
 
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
 
+## R squared is 0.666 in all four of the data sets but as you can see especially by the fourth set where is the slope is completley determined by the observation on the right. If we did not have that observation we would not be able to get the regression as all of the x,s would be the same as each other.
+
 ![1](https://user-images.githubusercontent.com/35726074/48149611-733a6e80-e2b4-11e8-8637-e8b94291bd36.PNG)
 ![2](https://user-images.githubusercontent.com/35726074/48149884-2e630780-e2b5-11e8-91d1-a3e98f0b725e.png)
 ![3](https://user-images.githubusercontent.com/35726074/48149653-95cc8780-e2b4-11e8-9041-e411084f86f9.png)
@@ -43,13 +45,18 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
    
 
-### References
-###http://data.princeton.edu/wws509/stata/anscombe.html
-###https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html
-###https://rstudio-pubs-static.s3.amazonaws.com/52381_36ec82827e4b476fb968d9143aec7c4f.html
-###https://learnonline.gmit.ie/course/view.php?id=515
-###https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
-###F. J. Anscombe (1973). Graphs in Statistical Analysis. The American Statistician, 27(1):17-21.
-###http://faculty.nps.edu/rdfricke/docs/Visualizing%20HSCB%20Data.pdf
-###
-.
+## References
+### http://data.princeton.edu/wws509/stata/anscombe.html
+### https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html
+### https://rstudio-pubs-static.s3.amazonaws.com/52381_36ec82827e4b476fb968d9143aec7c4f.html
+### https://learnonline.gmit.ie/course/view.php?id=515
+### https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
+### F. J. Anscombe (1973). Graphs in Statistical Analysis. The American Statistician, 27(1):17-21.
+### http://faculty.nps.edu/rdfricke/docs/Visualizing%20HSCB%20Data.pdf
+### http://data.princeton.edu/wws509/stata/anscombe.html
+### https://rstudio-pubs-static.s3.amazonaws.com/52381_36ec82827e4b476fb968d9143aec7c4f.html
+### https://www.hranalytics101.com/when-models-lie-why-plotting-your-data-is-super-duper-critical/
+### https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html
+### https://data.world/vikjam/anscombes-quartet
+### https://rasbt.github.io/mlxtend/user_guide/evaluate/permutation_test/
+### 
