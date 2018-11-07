@@ -9,7 +9,10 @@ Anscombe's quartet comprises of four datasets that have nearly identical simple 
 There are 8 variables representing four pairings of an outcome and a predictor.
 They were constructed in 1973 by the statistician Francis Anscombe, to show how important it was to graph data before analysing it. 
 He believed that numerical calculations were exact and that graphs were rough. 
-the data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67.  After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
+![5e1b13b7-1a65-42fc-a2b8-48bab2f783dc](https://user-images.githubusercontent.com/35726074/48148680-3d948600-e2b2-11e8-8f11-b126286136ca.png)
+
+
+The data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67.  After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
 !!![41dccdc3-68f0-4524-a352-812ae43d78ab](https://user-images.githubusercontent.com/35726074/48147406-2607ce00-e2af-11e8-8fa1-cbb6a6bc9c74.png)
 
 
