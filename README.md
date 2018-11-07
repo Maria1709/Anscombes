@@ -25,28 +25,9 @@ Visuals in data analysis is very effective and efficient in showing people quick
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
 to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
-
-# Data Summary
-
-###        x1             x2             x3             x4    
-###  Min.   : 4.0   Min.   : 4.0   Min.   : 4.0   Min.   : 8  
-###  1st Qu.: 6.5   1st Qu.: 6.5   1st Qu.: 6.5   1st Qu.: 8  
-###  Median : 9.0   Median : 9.0   Median : 9.0   Median : 8  
-###  Mean   : 9.0   Mean   : 9.0   Mean   : 9.0   Mean   : 9  
-###  3rd Qu.:11.5   3rd Qu.:11.5   3rd Qu.:11.5   3rd Qu.: 8  
-###  Max.   :14.0   Max.   :14.0   Max.   :14.0   Max.   :19  
+![384c1411-80c3-456e-9485-76806961d107](https://user-images.githubusercontent.com/35726074/48147855-3b312c80-e2b0-11e8-95d0-5c109d7095ce.png)
 
 
-###        y1               y2              y3              y4        
-### Min.   : 4.260   Min.   :3.100   Min.   : 5.39   Min.   : 5.250  
-###  1st Qu.: 6.315   1st Qu.:6.695   1st Qu.: 6.25   1st Qu.: 6.170  
-###  Median : 7.580   Median :8.140   Median : 7.11   Median : 7.040  
-###  Mean   : 7.501   Mean   :7.501   Mean   : 7.50   Mean   : 7.501  
-###  3rd Qu.: 8.570   3rd Qu.:8.950   3rd Qu.: 7.98   3rd Qu.: 8.190  
-###  Max.   :10.840   Max.   :9.260   Max.   :12.74   Max.   :12.500
-
-
-##"<img style=\"float: left; margin: 0px 15px 0px 0px;\" src=\"https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg\"
    
 
 ### References
