@@ -9,8 +9,7 @@ Anscombe's quartet comprises of four datasets that have nearly identical simple 
 There are 8 variables representing four pairings of an outcome and a predictor.
 They were constructed in 1973 by the statistician Francis Anscombe, to show how important it was to graph data before analysing it. 
 He believed that numerical calculations were exact and that graphs were rough. 
-the data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67. 
-## After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
+the data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67.  After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
 !!![41dccdc3-68f0-4524-a352-812ae43d78ab](https://user-images.githubusercontent.com/35726074/48147406-2607ce00-e2af-11e8-8fa1-cbb6a6bc9c74.png)
 
 
@@ -21,11 +20,11 @@ Plots should give a picture of the data and help show what exactly is happeneing
 
 ![85c301e3-60cf-44b8-8479-961a17ddc706](https://user-images.githubusercontent.com/35726074/48147690-d1b11e00-e2af-11e8-845c-aa7f97a11363.png)
 
-## A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
+##A somewhat related phenomenon is the cherry picking of facts to suit a preconceived notion. As Sherlock
 Holmes warns, “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts
 to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
-## As you can see from the data below how close statistically they are, again brings home how important to both plot and measure mathematically.
+ As you can see from the data below how close statistically they are, again brings home how important to both plot and measure mathematically.
 
 ![384c1411-80c3-456e-9485-76806961d107](https://user-images.githubusercontent.com/35726074/48147855-3b312c80-e2b0-11e8-95d0-5c109d7095ce.png)
 
