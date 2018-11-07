@@ -43,7 +43,12 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 ![384c1411-80c3-456e-9485-76806961d107](https://user-images.githubusercontent.com/35726074/48147855-3b312c80-e2b0-11e8-95d0-5c109d7095ce.png)
 
 
+
+![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
    
+Below you can see instantly how the four plots line up making them look very simple but in reality a very comlex set of data
+
+
 
 ## References
 ### http://data.princeton.edu/wws509/stata/anscombe.html
