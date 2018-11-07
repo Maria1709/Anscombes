@@ -47,7 +47,7 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 ![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
    
 Below you can see instantly how the four plots line up making them look very simple but in reality a very comlex set of data
-
+![6](https://user-images.githubusercontent.com/35726074/48159116-46925100-e2cc-11e8-83b0-877a9a272714.png)
 
 
 ## References
