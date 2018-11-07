@@ -1,6 +1,6 @@
 # Anscombes
 #Anscombes Investigation
-![https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg](screenshot.png)
+![https://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.png](screenshot.png)
 
 
 ![Frank Anscombe](https://en.wikipedia.org/wiki/Frank_Anscombe#/media/File:Francis_Anscombe.jpeg)
