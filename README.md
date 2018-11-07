@@ -16,7 +16,8 @@ He believed that numerical calculations were exact and that graphs were rough.
 The data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67.  After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
 !!![41dccdc3-68f0-4524-a352-812ae43d78ab](https://user-images.githubusercontent.com/35726074/48147406-2607ce00-e2af-11e8-8fa1-cbb6a6bc9c74.png)
 
-
+## Below you can see that the first 3 datasets the x values are all the same.
+![f69a22e4-0e50-43cb-9912-043f058761a0](https://user-images.githubusercontent.com/35726074/48149044-1b4f3800-e2b3-11e8-8130-fd73e6716c03.png)
 
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
 Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
