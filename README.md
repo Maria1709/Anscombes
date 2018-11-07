@@ -1,7 +1,7 @@
 # Anscombes
 #Anscombes Investigation
 
-![https://en.wikipedia.org/wiki/Frank_Anscombe#/media/File:Francis_Anscombe.jpeg](img/picture.png)
+![Frank Anscombe](https://en.wikipedia.org/wiki/Frank_Anscombe#/media/File:Francis_Anscombe.jpeg)
 
 ##Anscombe's quartet comprises of four datasets that have nearly identical simple descriptive statistics, but seem to appear to be very different when graphed. Each piece of data has eleven (x & y) points. 
 ##There are 8 variables representing four pairings of an outcome and a predictor.
