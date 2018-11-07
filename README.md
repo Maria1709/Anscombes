@@ -20,6 +20,13 @@ The data used in the data set had a mean of x(9) and y(7.5), the same fitted reg
 ![f69a22e4-0e50-43cb-9912-043f058761a0](https://user-images.githubusercontent.com/35726074/48149044-1b4f3800-e2b3-11e8-8130-fd73e6716c03.png)
 
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
+
+![1](https://user-images.githubusercontent.com/35726074/48149611-733a6e80-e2b4-11e8-8637-e8b94291bd36.PNG)
+
+![3](https://user-images.githubusercontent.com/35726074/48149653-95cc8780-e2b4-11e8-9041-e411084f86f9.png)
+![4](https://user-images.githubusercontent.com/35726074/48149664-9cf39580-e2b4-11e8-8b58-525846f6551e.png)
+
+
 Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
 Plots should give a picture of the data and help show what exactly is happeneing, allows large amounts of data to be shown in an easily understood picture, must be coherent and serve a clear purpose.
 
