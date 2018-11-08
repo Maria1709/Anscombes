@@ -55,7 +55,17 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 Below you can see instantly how the four plots line up making them look very simple but in reality a very comlex set of data
 ![6](https://user-images.githubusercontent.com/35726074/48159116-46925100-e2cc-11e8-83b0-877a9a272714.png)
 
+From researching the Anscombes data set we have seen numerous accounts of reasons for the data set but Anscombe himself believed that computers should both do calculations and graphs to understand the data in full and get a clear understanding of what is going on. he believed in graphical representations and showing not just the data but the distance also form the regression lines, which are also known as the residuals, and any other information that will help understand the data clearer and how the model fits.
+
+As you can see visually from the plots below us it is a real representaion of the dat structure.
+
+
+
+This method and way of thinking was not everyday workings in this field of IT, it was definitel thinking outside the box for the 1970's even tho one would think it obvious now.
+
+
 ## References
+### Anscombe, Francis J. (1973) Graphs in statistical analysis. American Statistician, 27, 17–21.
 ### http://data.princeton.edu/wws509/stata/anscombe.html
 ### http://data.princeton.edu/wws509/stata/anscombe.html
 ### https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html
