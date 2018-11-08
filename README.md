@@ -63,7 +63,7 @@ As you can see visually from the plots below us it is a real representaion of th
 
 
 
-This method and way of thinking was not everyday workings in this field of IT, it was definitel thinking outside the box for the 1970's even tho one would think it obvious now.
+This method and way of thinking was not everyday workings in this field of IT, it was definitely thinking outside the box for the 1970's even tho one would think it obvious now.
 
 
 ## References
