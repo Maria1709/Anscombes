@@ -52,6 +52,7 @@ Below you can see instantly how the four plots line up making them look very sim
 
 ## References
 ### http://data.princeton.edu/wws509/stata/anscombe.html
+### http://data.princeton.edu/wws509/stata/anscombe.html
 ### https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html
 ### https://rstudio-pubs-static.s3.amazonaws.com/52381_36ec82827e4b476fb968d9143aec7c4f.html
 ### https://learnonline.gmit.ie/course/view.php?id=515
