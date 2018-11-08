@@ -17,7 +17,7 @@ The data used in the data set had a mean of x(9) and y(7.5), the same fitted reg
 !!![41dccdc3-68f0-4524-a352-812ae43d78ab](https://user-images.githubusercontent.com/35726074/48147406-2607ce00-e2af-11e8-8fa1-cbb6a6bc9c74.png)
 
 
-Below we have a table holding a vast amount of information regarding the anscombes dat set we have calculated the mena, standard deviation, max and the mina nd slos the 25% and so on to give us a clearer overall picture of this particular dataset.
+Below we have a table holding a vast amount of information regarding the anscombes data set we have calculated the count, the mean, standard deviation, max and the min and also the 75%, 25% and so on to give us a clearer overall picture of this particular dataset.
 
 ![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
 
