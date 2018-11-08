@@ -21,7 +21,7 @@ The data used in the data set had a mean of x(9) and y(7.5), the same fitted reg
 
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
 
-## R squared is 0.666 in all four of the data sets but as you can see especially by the fourth set where is the slope is completley determined by the observation on the right. If we did not have that observation we would not be able to get the regression as all of the x,s would be the same as each other.
+### R squared is 0.666 in all four of the data sets but as you can see especially by the fourth set where is the slope is completley determined by the observation on the right. If we did not have that observation we would not be able to get the regression as all of the x,s would be the same as each other.
 
 ![1](https://user-images.githubusercontent.com/35726074/48149611-733a6e80-e2b4-11e8-8637-e8b94291bd36.PNG)
 ![2](https://user-images.githubusercontent.com/35726074/48149884-2e630780-e2b5-11e8-91d1-a3e98f0b725e.png)
@@ -44,11 +44,10 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
 
 
-![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
+
    
 Below you can see instantly how the four plots line up making them look very simple but in reality a very comlex set of data
 ![6](https://user-images.githubusercontent.com/35726074/48159116-46925100-e2cc-11e8-83b0-877a9a272714.png)
-
 
 ## References
 ### http://data.princeton.edu/wws509/stata/anscombe.html
