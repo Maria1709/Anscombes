@@ -58,6 +58,8 @@ Below you can see instantly how the four plots line up making them look very sim
 From researching the Anscombes data set we have seen numerous accounts of reasons for the data set but Anscombe himself believed that computers should both do calculations and graphs to understand the data in full and get a clear understanding of what is going on. he believed in graphical representations and showing not just the data but the distance also form the regression lines, which are also known as the residuals, and any other information that will help understand the data clearer and how the model fits.
 
 As you can see visually from the plots below us it is a real representaion of the dat structure.
+![10](https://user-images.githubusercontent.com/35726074/48197178-e0014780-e34c-11e8-98be-efcd974a34af.png)
+
 
 
 
