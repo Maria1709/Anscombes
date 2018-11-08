@@ -16,6 +16,12 @@ He believed that numerical calculations were exact and that graphs were rough.
 The data used in the data set had a mean of x(9) and y(7.5), the same fitted regression line(y = 3 ++ 0.5x), has the same regressiona and residual sum of squares thus giving it the same multiple R-squared of 0.67.  After reviewing the statsitical data forma mathematics view you could imagine how the data would look plotted, that how could it be very different it couldnt
 !!![41dccdc3-68f0-4524-a352-812ae43d78ab](https://user-images.githubusercontent.com/35726074/48147406-2607ce00-e2af-11e8-8fa1-cbb6a6bc9c74.png)
 
+
+Below we have a table holding a vast amount of information regarding the anscombes dat set we have calculated the mena, standard deviation, max and the mina nd slos the 25% and so on to give us a clearer overall picture of this particular dataset.
+
+![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
+
+
 ## Below you can see that the first 3 datasets the x values are all the same.
 ![f69a22e4-0e50-43cb-9912-043f058761a0](https://user-images.githubusercontent.com/35726074/48149044-1b4f3800-e2b3-11e8-8130-fd73e6716c03.png)
 
