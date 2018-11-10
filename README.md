@@ -37,6 +37,8 @@ But this was what was surprising and shows why Anscombes Data set is so importan
 
 Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
 Plots should give a picture of the data and help show what exactly is happeneing, allows large amounts of data to be shown in an easily understood picture, must be coherent and serve a clear purpose.
+![a1](https://user-images.githubusercontent.com/35726074/48302719-18915480-e4f8-11e8-917d-31d61f730976.png)
+
 
 ![85c301e3-60cf-44b8-8479-961a17ddc706](https://user-images.githubusercontent.com/35726074/48147690-d1b11e00-e2af-11e8-845c-aa7f97a11363.png)
 
