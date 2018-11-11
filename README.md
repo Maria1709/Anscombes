@@ -3,7 +3,7 @@
 
 ![francis_anscombe](https://user-images.githubusercontent.com/35726074/48147151-84807c80-e2ae-11e8-8abe-e8ac5cd3f6c6.jpeg)
 
-
+## Frances Anscombe
 
 Anscombe's quartet comprises of four datasets that have nearly identical simple descriptive statistics, but seem to appear to be very different when graphed. Each piece of data has eleven (x & y) points. 
 There are 8 variables representing four pairings of an outcome and a predictor.
