@@ -55,6 +55,8 @@ to suit theories, instead of theories to suit facts” (Doyle, 2003, p. 189.
 
 ![384c1411-80c3-456e-9485-76806961d107](https://user-images.githubusercontent.com/35726074/48147855-3b312c80-e2b0-11e8-95d0-5c109d7095ce.png)
 
+##Here we can see a visual comparison of how statistically they may be the same when put on a graph can be so disimilar.
+![99](https://user-images.githubusercontent.com/35726074/48310337-baab4e00-e585-11e8-9402-f76c71e2621c.PNG)
 
 
 
