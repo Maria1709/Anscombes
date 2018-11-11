@@ -7,7 +7,10 @@
 
 Anscombe's quartet comprises of four datasets that have nearly identical simple descriptive statistics, but seem to appear to be very different when graphed. Each piece of data has eleven (x & y) points. 
 There are 8 variables representing four pairings of an outcome and a predictor.
-They were constructed in 1973 by the statistician Francis Anscombe, to show how important it was to graph data before analysing it. Frances Anscome was educated at Trinity college at Cambridege university. Before this he had served in the second world war and spent two years at the Rothamsted experimental station beofre going back to Cambridge university to lecture. 
+They were constructed in 1973 by the statistician Francis Anscombe, to show how important it was to graph data before analysing it. Frances Anscome was educated at Trinity college at Cambridege university. 
+![cam](https://user-images.githubusercontent.com/35726074/48314893-d3d4ee80-e5c7-11e8-9e7d-f5bb3af1a66b.png)
+
+Before this he had served in the second world war and spent two years at the Rothamsted experimental station beofre going back to Cambridge university to lecture. 
 in his design phase he believed that experiments should randomize the labelsof blocks, in the anlsysis phase. He said that this phase should guide the analysis of data. His approach has influenced many people over the years. 
 He moved to Princeton university in 1956 and was elected as a fellow of the americal statistical association.
 He was the founder of the statistics department at Yale university in 1963.
