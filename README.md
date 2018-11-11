@@ -27,7 +27,7 @@ Below we have a table holding a vast amount of information regarding the anscomb
 ![5](https://user-images.githubusercontent.com/35726074/48158759-3d54b480-e2cb-11e8-8e5a-3daf397a5529.png)
 
 
-## Below you can see that the first 3 datasets the x values are all the same.
+
 ![f69a22e4-0e50-43cb-9912-043f058761a0](https://user-images.githubusercontent.com/35726074/48149044-1b4f3800-e2b3-11e8-8130-fd73e6716c03.png)
 
 But this was what was surprising and shows why Anscombes Data set is so important in understanding the use of graphs in statistical analysis.
