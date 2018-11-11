@@ -99,4 +99,5 @@ Alber Cairo created the Datasaurus, bring home the point you should never trust 
 ### https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.loc.html
 ### https://data.world/vikjam/anscombes-quartet
 ### https://rasbt.github.io/mlxtend/user_guide/evaluate/permutation_test/
-### 
+### https://www.autodeskresearch.com/publications/samestats
+### https://seaborn.pydata.org/examples/anscombes_quartet.html
