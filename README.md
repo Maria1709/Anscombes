@@ -18,8 +18,8 @@ He was the founder of the statistics department at Yale university in 1963.
 
 ##Statistics department at Yale university
 
-Residuals in linear regeression in 1961 is known as one of his greates works, his suggestion earlier that variance stabilizing transformation for Poisson data was known as the Anscombes transform. 
-He soon became intersted in statistical and stresseda computer should make both calcualtions and graphs and also by using the 4 sets of data known as Anscombes quarted would be the most effective and effeicient way of doing this. 
+Residuals in linear regeression in 1961 is known as one of his greatest works, his suggestion earlier that variance stabilizing transformation for Poisson data was known as the Anscombes transform. 
+He soon became interested in statistical and stressed a computer should make both calcualtions and graphs and also by using the 4 sets of data known as Anscombes quartet would be the most effective and efficient way of doing this. 
 He believed that numerical calculations were exact and that graphs were rough. 
 ## Calculating the descriptive statistics of the variables in the data set.Below is a  summary of the statistics of the data set.
 ## This is the data for all four sets
@@ -47,7 +47,7 @@ But this was what was surprising and shows why Anscombes Data set is so importan
 ![4](https://user-images.githubusercontent.com/35726074/48149664-9cf39580-e2b4-11e8-8b58-525846f6551e.png)
 
 
-Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. it works more effectively with large ammounts of data but is effective in all data sizes.
+Visuals in data analysis is very effective and efficient in showing people quickly large ammounts of data. It can also give more insight into the data and allow for a solution and a new understanding more quickly. It works more effectively with large ammounts of data but is effective in all data sizes.
 Plots should give a picture of the data and help show what exactly is happeneing, allows large amounts of data to be shown in an easily understood picture, must be coherent and serve a clear purpose.
 ![a1](https://user-images.githubusercontent.com/35726074/48302719-18915480-e4f8-11e8-917d-31d61f730976.png)
 
