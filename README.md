@@ -14,6 +14,8 @@ Before this he had served in the second world war and spent two years at the Rot
 in his design phase he believed that experiments should randomize the labelsof blocks, in the anlsysis phase. He said that this phase should guide the analysis of data. His approach has influenced many people over the years. 
 He moved to Princeton university in 1956 and was elected as a fellow of the americal statistical association.
 He was the founder of the statistics department at Yale university in 1963.
+
+##Statistics department at Yale university
 Residuals in linear regeression in 1961 is known as one of his greates works, his suggestion earlier that variance stabilizing transformation for Poisson data was known as the Anscombes transform. 
 He soon became intersted in statistical and stresseda computer should make both calcualtions and graphs and also by using the 4 sets of data known as Anscombes quarted would be the most effective and effeicient way of doing this. 
 He believed that numerical calculations were exact and that graphs were rough. 
