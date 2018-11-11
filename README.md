@@ -75,6 +75,12 @@ As you can see visually from the plots below us it is a real representaion of th
 This method and way of thinking was not everyday workings in this field of IT, it was definitely thinking outside the box for the 1970's even tho one would think it obvious now.
 
 
+Alber Cairo created the Datasaurus, bring home the point you should never trust summary statisitics on their own, that you must always visualise the data, shoing below that normal looking statisitics may not always be what they seem as this particular set of data plots a dinosaur image!!!! Which was inspired by Anscombes data set.
+
+
+
+
+
 ## References
 ### Anscombe, Francis J. (1973) Graphs in statistical analysis. American Statistician, 27, 17–21.
 ### http://data.princeton.edu/wws509/stata/anscombe.html
