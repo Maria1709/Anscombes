@@ -78,6 +78,8 @@ This method and way of thinking was not everyday workings in this field of IT, i
 Alber Cairo created the Datasaurus, bring home the point you should never trust summary statisitics on their own, that you must always visualise the data, shoing below that normal looking statisitics may not always be what they seem as this particular set of data plots a dinosaur image!!!! Which was inspired by Anscombes data set.
 
 
+![dino](https://user-images.githubusercontent.com/35726074/48310414-b469a180-e586-11e8-89a3-40f2ebb1e223.PNG)
+)
 
 
 
